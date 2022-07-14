@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import  "./App.css"
 import PeopleList from './components/PeopleList';
 
@@ -16,4 +16,3 @@ function App() {
 export default App;
 
 
-//  person={users} removeFunc={removeUser}

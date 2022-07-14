@@ -35,7 +35,7 @@ render(){
         <div key={index} className="person">
 
           <div className="avatar">
-                <img src={user.img}/>
+                <img src={user.img} alt=""/>
             </div>
             <div className="info">
               <h1>{user.name}</h1>
